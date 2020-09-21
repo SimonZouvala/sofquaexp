@@ -32,5 +32,5 @@
 * <b>example:</b> -m total:2018,2019
 
 ## example:
-* -d https://is.muni.cz/el/fi/jaro2020/PV260/um/seminars/java_groups/initial_assignment/orders_data.csv -m average:2018 -o plain output_print
-* -d output_data.csv -m empty_customer -o plain output_print
+* -d https://is.muni.cz/el/fi/jaro2020/PV260/um/seminars/java_groups/initial_assignment/orders_data.csv -m average:2018 -o plain output_print.txt
+* -d output_data.csv -m empty_customer -o xml output_print.xml

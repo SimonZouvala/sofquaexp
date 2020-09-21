@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results>
+    <method name="TOP3">
+        <result status="ALL" year="2020">, anna.mayert@homenick.com, dbogan@kessler.info,</result>
+    </method>
+    <method name="TOTAL">
+        <result status="PAID" year="2019">1015152</result>
+    </method>
+    <method name="TOTAL">
+        <result status="PAID" year="2018">994984</result>
+    </method>
+    <method name="AVERAGE">
+        <result status="PAID" year="2018">2421</result>
+        <result status="UNPAID" year="2018">2361</result>
+        <result status="PAID" year="2019">2470</result>
+        <result status="UNPAID" year="2019">2434</result>
+    </method>
+    <method name="TOP3">
+        <result status="ALL" year="2020">anna.mayert@homenick.com, nerdman@gmail.com, kennedi30@feest.com,</result>
+    </method>
+</results>

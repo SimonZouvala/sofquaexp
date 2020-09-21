@@ -29,7 +29,7 @@
 * <b>top3:</b> the top 3 customers with the highest number of orders.
 ##### advance:
 * <b>method:year,year,...</b> : get method for specific year.
-* ######example: -m total:2018,2019
+* <b>example:</b> -m total:2018,2019
 
 ## example:
 * -d https://is.muni.cz/el/fi/jaro2020/PV260/um/seminars/java_groups/initial_assignment/orders_data.csv -m average:2018 -o plain output_print
